@@ -90,7 +90,7 @@
     justify-content: center;
   }
 
-  #next, #back{
+  .next, .back{
     cursor: pointer;
     border: none;
     background: transparent;
@@ -100,12 +100,8 @@
     width: 90%;
   }
 
-  #next{
+  .next{
     margin-left: 35px;
-  }
-
-  #back{
-    cursor: pointer;
   }
 
   #second{
