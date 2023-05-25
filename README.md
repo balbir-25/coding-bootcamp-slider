@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/balbir-25/coding-bootcamp-slider)
-- Live Site URL:( https://balbir-25.github.io/coding-bootcam-sliderp/)
+- Live Site URL:( https://balbir-25.github.io/coding-bootcam-slider/)
 
 ## My process
 
